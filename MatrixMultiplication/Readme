@@ -1,0 +1,5 @@
+1. To run the project, first build the cpp files by running the below command.
+    	python setup.py build
+2. Pass in input parameters to the matrix multiplication function 
+3. Run the python program to compute the result - 
+	python multiply.py

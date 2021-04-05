@@ -1,0 +1,9 @@
+Instructions to run the program
+
+1. Build the cpp file by running 
+
+clang++ -std=c++11 -stdlib=libc++ -Weverything recursivesearch.cpp -o recursivesearch  
+
+2. Run the program by passing the folder name and search string to search as - 
+
+./recursivesearch "/Users/varoon/Downloads" "hello"
